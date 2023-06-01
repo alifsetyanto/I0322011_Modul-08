@@ -1,3 +1,7 @@
-Nama: #N/A
-Umur: #N/A
-Alamat: #N/A
+Nama: Alif
+Umur: 20
+Alamat: Ponorogo
+
+Nama: Ai
+Umur: 12
+Alamat: AB
